@@ -1,0 +1,22 @@
+{
+  "name": "munchies4days",
+  "version": "1.0.0",
+  "description": "Want munchies recommended? Look no further!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdevanathan3/Munchies4Days.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdevanathan3/Munchies4Days/issues"
+  },
+  "homepage": "https://github.com/jdevanathan3/Munchies4Days#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
